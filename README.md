@@ -107,7 +107,7 @@ true
 added string
 string
 boolean
-array
+object //NOTE: that typeof will return 'object' when given an array...
 string
 string
 string
